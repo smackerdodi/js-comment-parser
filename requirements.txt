@@ -1,0 +1,5 @@
+requests
+subprocess 
+sys
+os
+comment_parser
